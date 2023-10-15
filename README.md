@@ -10,6 +10,8 @@ RecStreams is a computer application that can automatically record live streams 
 *   _[Download](#download)_
 *   _[Purchase a key](#purchase)_
 *   _[Free Trial](#free-trial)_
+*   _[Contacts](#contacts)_
+*   _[Other Products And Services](#other-products-and-services)_
 
 ## Description
 
@@ -44,3 +46,14 @@ You can purchase a key here: https://recstreams.com/#trial
 ## Free Trial
 
 You can request a free trial key that will be valid for two hours, get it here: https://recstreams.com/#trial
+
+## Contacts
+- [info@recstreams.com](mailto:info@recstreams.com)
+- [Telegram: Icaro10100 - Click here](https://telegram.me/Icaro10100)
+
+## Other Products And Services
+- [LeakGirls - Automatic Recorder For Adult Cam Sites](https://leakgirls.com)
+- [Reddit Upvotes - Cheap And Reliable](https://smediabots.com/Posts/reddit-upvotes/)
+- [All In One IMAP Email Login Checker](https://smediabots.com/Posts/imap-aio-email-checker/)
+- [Omegle Messaging Bot - Simple & Effective](https://smediabots.com/Posts/omegle-message-bot/)
+- [RecStreams - Automatic Stream Recorder & Video Downloader For Any Site](https://recstreams.com/)
